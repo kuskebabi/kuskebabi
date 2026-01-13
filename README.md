@@ -7,7 +7,7 @@ I make stuff in HTML, CSS, JavaScript, NodeJS, C# and etc.
 - 📫 How to reach me :
   - Telegram channel (offtopic): https://t.me/tbudgie
   - Telegram channel (projects): https://t.me/orangemium
-  - Matrix: [@hakankokcu:matrix.org](https://matrix.to/#/@hakankokcu:matrix.org)
+  - Matrix: [@kuskebabi:federated.nexus](https://matrix.to/#/@kuskebabi:federated.nexus)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kuskebabi&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![kuskebabi's GitHub stats](https://github-readme-stats.vercel.app/api?username=kuskebabi&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
